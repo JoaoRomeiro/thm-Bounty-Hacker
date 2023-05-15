@@ -1,7 +1,7 @@
 # Bounty-Hacker
 Step by step, ooh, baby
 
-```$ nmap -D RND:20 --open -sS -p- <ip>```
+```$ nmap -D RND:20 --open -sS -p- <ip>``` <br />
 Starting Nmap 7.93 ( https://nmap.org ) at 2023-05-14 21:48 -03
 Nmap scan report for <ip>
 Host is up (0.23s latency).
