@@ -6,7 +6,7 @@
 - Nmap 7.93 (https://nmap.org)
 - Hydra v9.4 (https://github.com/vanhauser-thc/thc-hydra)
 
-### 🔧 Execuç
+### 🔧 Execução
 ```$ nmap -D RND:20 --open -sS -p- <ip>``` <br />
 Starting Nmap 7.93 ( https://nmap.org ) at 2023-05-14 21:48 -03
 Nmap scan report for <ip>
