@@ -3,8 +3,8 @@
 ## 🚀 Step by step, ooh, baby
 
 ### 📋 Pré-requisitos
-Nmap 7.93 (https://nmap.org)
-Hydra v9.4 (https://github.com/vanhauser-thc/thc-hydra)
+- Nmap 7.93 (https://nmap.org)
+- Hydra v9.4 (https://github.com/vanhauser-thc/thc-hydra)
 
 ### 🔧 Execuç
 ```$ nmap -D RND:20 --open -sS -p- <ip>``` <br />
@@ -114,5 +114,5 @@ drwx------  2 root root 4.0K Jun  7  2020 .ssh
 THM{80UN7Y_h4cK3r}
 
 ## 📌 Referências:
-https://tryhackme.com/room/cowboyhacker
-https://gtfobins.github.io/gtfobins/tar/
+- https://tryhackme.com/room/cowboyhacker
+- https://gtfobins.github.io/gtfobins/tar/
